@@ -1,0 +1,4 @@
+
+		TextView textView = (TextView) findViewById(R.id.textView2);
+		textView.setText(Html.fromHtml("<p><font color='#FF0000'>ttttt</front>" + "<font " +
+											   "color='#00FF00'>ttttt</front></p>"));
